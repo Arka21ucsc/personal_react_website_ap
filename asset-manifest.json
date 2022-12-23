@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/personal_react_website_ap/static/css/main.ecbf9cc7.css",
-    "main.js": "/personal_react_website_ap/static/js/main.39952f18.js",
+    "main.css": "/personal_react_website_ap/static/css/main.9b654229.css",
+    "main.js": "/personal_react_website_ap/static/js/main.ee5feee0.js",
     "static/js/787.877fa98f.chunk.js": "/personal_react_website_ap/static/js/787.877fa98f.chunk.js",
+    "static/media/gradpic.jpg": "/personal_react_website_ap/static/media/gradpic.87ec9aeb66dd438bf189.jpg",
+    "static/media/Arka_tennis.jpg": "/personal_react_website_ap/static/media/Arka_tennis.2974862e7e08b6b2ba4d.jpg",
     "static/media/resume.pdf": "/personal_react_website_ap/static/media/resume.87c25033218d4fc6314e.pdf",
+    "static/media/wavestyled.png": "/personal_react_website_ap/static/media/wavestyled.b2d6fafa392a6279d69b.png",
+    "static/media/Arka_guitar.jpg": "/personal_react_website_ap/static/media/Arka_guitar.3218f3ab40616ddbabde.jpg",
+    "static/media/workout.jpg": "/personal_react_website_ap/static/media/workout.d6d7c287789c847f005e.jpg",
+    "static/media/bitcoin.png": "/personal_react_website_ap/static/media/bitcoin.8dade9ed87416e9d848a.png",
     "static/media/helvetica-neu.ttf": "/personal_react_website_ap/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/personal_react_website_ap/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/LaBelleAurore.woff2": "/personal_react_website_ap/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/kvs.jpg": "/personal_react_website_ap/static/media/kvs.f723826c033b2a3e6df1.jpg",
     "static/media/CoolveticaRg-Regular.woff": "/personal_react_website_ap/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/personal_react_website_ap/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/personal_react_website_ap/index.html",
-    "main.ecbf9cc7.css.map": "/personal_react_website_ap/static/css/main.ecbf9cc7.css.map",
-    "main.39952f18.js.map": "/personal_react_website_ap/static/js/main.39952f18.js.map",
+    "main.9b654229.css.map": "/personal_react_website_ap/static/css/main.9b654229.css.map",
+    "main.ee5feee0.js.map": "/personal_react_website_ap/static/js/main.ee5feee0.js.map",
     "787.877fa98f.chunk.js.map": "/personal_react_website_ap/static/js/787.877fa98f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecbf9cc7.css",
-    "static/js/main.39952f18.js"
+    "static/css/main.9b654229.css",
+    "static/js/main.ee5feee0.js"
   ]
 }
