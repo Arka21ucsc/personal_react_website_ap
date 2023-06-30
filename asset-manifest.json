@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/personal_react_website_ap/static/css/main.45fa6ab1.css",
-    "main.js": "/personal_react_website_ap/static/js/main.9798e7fa.js",
+    "main.css": "/personal_react_website_ap/static/css/main.e3adb729.css",
+    "main.js": "/personal_react_website_ap/static/js/main.18bcb350.js",
     "static/js/787.877fa98f.chunk.js": "/personal_react_website_ap/static/js/787.877fa98f.chunk.js",
     "static/media/gradpic.jpg": "/personal_react_website_ap/static/media/gradpic.87ec9aeb66dd438bf189.jpg",
     "static/media/Arka_tennis.jpg": "/personal_react_website_ap/static/media/Arka_tennis.2974862e7e08b6b2ba4d.jpg",
-    "static/media/resume.pdf": "/personal_react_website_ap/static/media/resume.87c25033218d4fc6314e.pdf",
+    "static/media/MASTER_GRAD_RESUME_AI.pdf": "/personal_react_website_ap/static/media/MASTER_GRAD_RESUME_AI.64dc15d7146af96514d3.pdf",
     "static/media/wavestyled.png": "/personal_react_website_ap/static/media/wavestyled.b2d6fafa392a6279d69b.png",
     "static/media/Arka_guitar.jpg": "/personal_react_website_ap/static/media/Arka_guitar.3218f3ab40616ddbabde.jpg",
     "static/media/workout.jpg": "/personal_react_website_ap/static/media/workout.d6d7c287789c847f005e.jpg",
@@ -17,12 +17,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/personal_react_website_ap/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/personal_react_website_ap/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/personal_react_website_ap/index.html",
-    "main.45fa6ab1.css.map": "/personal_react_website_ap/static/css/main.45fa6ab1.css.map",
-    "main.9798e7fa.js.map": "/personal_react_website_ap/static/js/main.9798e7fa.js.map",
+    "main.e3adb729.css.map": "/personal_react_website_ap/static/css/main.e3adb729.css.map",
+    "main.18bcb350.js.map": "/personal_react_website_ap/static/js/main.18bcb350.js.map",
     "787.877fa98f.chunk.js.map": "/personal_react_website_ap/static/js/787.877fa98f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45fa6ab1.css",
-    "static/js/main.9798e7fa.js"
+    "static/css/main.e3adb729.css",
+    "static/js/main.18bcb350.js"
   ]
 }
