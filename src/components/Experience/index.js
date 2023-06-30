@@ -46,7 +46,7 @@ TensorFlow, NumPy, Pandas, Scikit-learn, REST APIs, jQuery, GitHub, Unix Docker,
 <ul>
 <li>
 <b>Jack Baskin School of Engineering, Santa Cruz, CA Teaching Assistant
- </b>          <span>        1/2022 – 6/2022 </span>
+ </b>          <span>        1/2023 – 6/2023 </span>
  <ul>
 
 
