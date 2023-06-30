@@ -7,17 +7,17 @@ const Experience = () => {
                <h1>
                Experience</h1>
                <div className='Card'>
-               <h2> Education </h2>
+               <h3> Education </h3>
                <ul>
                 <li> Master of Science in Computer Science and Engineering
-University of California Santa Cruz, 2022 – Present</li>
+University of California Santa Cruz, Graduate June 2023</li>
 <ul>
     <li> GPA: 4.0</li>
-    <li>Coursework: Compiler Design, Operating Systems</li> 
+    <li>Coursework: Compiler Design, Operating Systems, Artificial Intelligence, Analysis of Algorithms, Programming Languages, Cyber Physical Systems Security</li> 
 </ul>
 <br></br>
 <li> Bachelor of Science in Computer Science, Minor in Statistics; with Highest Distinction
-University of California Santa Cruz, Graduate 2022
+University of California Santa Cruz, Graduate  June 2022
 </li>
 <ul>
 <li> GPA 3.97 | University Honors: Summa Cum Laude </li>
@@ -31,7 +31,7 @@ University of California Santa Cruz, Graduate 2022
                </div>
 
 <div  className='Card'>
-<h2>Technical Skills </h2> 
+<h3>Technical Skills </h3> 
 
 <p> <b>Programming Languages:</b> Python, JavaScript, SQL, Java, C, C++, MATLAB, R, Haskell </p> 
 <p> <b>Technologies and Frameworks:</b> React/React-Native.js, Node.js, Express.js, Flask, Firebase, PostgreSQL,
@@ -42,12 +42,30 @@ TensorFlow, NumPy, Pandas, Scikit-learn, REST APIs, jQuery, GitHub, Unix Docker,
 
 
 <div  className='Card'>
-<h2> Work Experience</h2>   
+<h3> Work Experience</h3>   
 <ul>
 <li>
+<b>Jack Baskin School of Engineering, Santa Cruz, CA Teaching Assistant
+ </b>          <span>        1/2022 – 6/2022 </span>
+ <ul>
+
+
+    <li> Teaching Assistant for CSE101: Data Structures and Algorithms (C/C++) 
+        <ul>
+
+            <li>Worked with a team of tutors and TAs to run a Data Structures and Algorithms class for 350 students</li>
+            <li>Taught core data structure concepts and debugging techniques to strengthen students' programming skills (C/C++)</li>
+            <li> Hosted 2 discussion sections per week and graded students' exams and programming assignments, working 20 hours per week </li>
+            <li>  Facilitated proctored exams and addressed students' inquiries </li>
+            <li> Created and nurtured a learning atmosphere to meet students' varying needs and interests.</li>
+        </ul>
+    </li>
+</ul>
+
+
 <b>Jack Baskin School of Engineering, Santa Cruz, CA Course Reader/Tutor
- </b>          <span>        9/2021 – Present </span>
-<ul>
+ </b>          <span>        9/2021 – 12/2022 </span>
+ <ul>
 
 
     <li> Course Tutor for CSE101: Data Structures and Algorithms (C/C++) 
@@ -82,12 +100,12 @@ TensorFlow, NumPy, Pandas, Scikit-learn, REST APIs, jQuery, GitHub, Unix Docker,
 </div>
 
 <div className='Card'>
-<h2> Additional Experience</h2>
+<h3> Additional Experience</h3>
 
 <ul> <li> <b>Financial Director:</b> Indian Student Association  
 
     <ul>  
-
+        <li>Worked in a team of 6 board members and 15 interns to run the Indian Student Association </li>
         <li> Cut the club budget by 20% by negotiating vendor pricing and fees while overseeing a team of three financial interns.  </li>
         <li> Formulated budgets for large-scale events involving 300–700 people  </li>
         <li> Completed over 30 procurement orders </li>
@@ -123,7 +141,7 @@ Digitized, categorized, and maintained a database of 3,000 current patients' rec
 
 <div className='Card'>
 
-<h2> Awards </h2>
+<h3> Awards </h3>
 <p> <b> Jefferson Award:</b> Awarded with Local Nobel Prize by remarkable local community volunteer impact – 2019</p>
 <p>  <b> Presidential Gold Award:  </b> Honored for contribution that positively impacts the community and inspires others to action – 2018  </p>
 </div>

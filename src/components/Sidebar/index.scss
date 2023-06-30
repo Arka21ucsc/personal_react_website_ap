@@ -1,6 +1,7 @@
 .nav-bar {
-  background: #181818;
-  width: 60px;
+  background: black;
+
+  width: 75px;
   height: 100%;
   position: absolute;
   top: 0;
@@ -135,7 +136,7 @@
 
       &:hover {
         .anchor-icon {
-          color: #ffd700;
+          color: white;
         }
       }
     }

@@ -1,5 +1,6 @@
 import './index.scss'
-import Resume from '../../assets/resume.pdf'
+import ME from '../../assets/images/gradpic.jpg'
+import Resume from '../../assets/MASTER_GRAD_RESUME_AI.pdf'
 const Home = () => {
   return (
     <div className="container home-page">
@@ -10,9 +11,12 @@ const Home = () => {
         </h1>
         <h2> Machine Learning | Artificial Intelligence | FullStack Development</h2>
         <a href = {Resume} download className = 'btn'> Download Resume </a>
-       
+        
       </div>
+      
     </div>
+    
+    
   )
 }
 
