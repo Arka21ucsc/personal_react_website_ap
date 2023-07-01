@@ -1,6 +1,6 @@
 import './index.scss'
 import ME from '../../assets/images/gradpic.jpg'
-import Resume from '../../assets/MASTER_GRAD_RESUME_AI.pdf'
+import Resume from '../../assets/MASTER_GRAD_RESUME_UPDATED.pdf'
 const Home = () => {
   return (
     <div className="container home-page">

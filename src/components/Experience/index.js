@@ -45,6 +45,17 @@ TensorFlow, NumPy, Pandas, Scikit-learn, REST APIs, jQuery, GitHub, Unix Docker,
 <h3> Work Experience</h3>   
 <ul>
 <li>
+<b>Graduate Student Researcher Santa Cruz, CA 
+ </b>          <span>        6/2023 – Present </span>
+        <ul>
+
+            <li>Conducting research under the guidance of Professor Leilani Gilpin to develop DANGER, a framework aimed at
+                creating a photo-realistic dataset derived from authentic driving scenarios. </li>
+            <li>Demonstrate expertise in identifying and extracting relevant vehicles from images and videos</li>
+            <li> Hosted 2 discussion sections per week and graded students' exams and programming assignments, working 20 hours per week </li>
+            <li> Leverage cutting-edge AI tools, such as NERF, to produce highly realistic driving scenes. </li>
+        </ul>
+    
 <b>Jack Baskin School of Engineering, Santa Cruz, CA Teaching Assistant
  </b>          <span>        1/2023 – 6/2023 </span>
  <ul>
