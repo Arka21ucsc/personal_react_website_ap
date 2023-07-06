@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_react_website_ap/static/css/main.e3adb729.css",
-    "main.js": "/personal_react_website_ap/static/js/main.be6fd864.js",
+    "main.css": "/personal_react_website_ap/static/css/main.d7b9039b.css",
+    "main.js": "/personal_react_website_ap/static/js/main.322e1385.js",
     "static/js/787.877fa98f.chunk.js": "/personal_react_website_ap/static/js/787.877fa98f.chunk.js",
     "static/media/gradpic.jpg": "/personal_react_website_ap/static/media/gradpic.87ec9aeb66dd438bf189.jpg",
     "static/media/Arka_tennis.jpg": "/personal_react_website_ap/static/media/Arka_tennis.2974862e7e08b6b2ba4d.jpg",
@@ -17,12 +17,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/personal_react_website_ap/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/personal_react_website_ap/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/personal_react_website_ap/index.html",
-    "main.e3adb729.css.map": "/personal_react_website_ap/static/css/main.e3adb729.css.map",
-    "main.be6fd864.js.map": "/personal_react_website_ap/static/js/main.be6fd864.js.map",
+    "main.d7b9039b.css.map": "/personal_react_website_ap/static/css/main.d7b9039b.css.map",
+    "main.322e1385.js.map": "/personal_react_website_ap/static/js/main.322e1385.js.map",
     "787.877fa98f.chunk.js.map": "/personal_react_website_ap/static/js/787.877fa98f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3adb729.css",
-    "static/js/main.be6fd864.js"
+    "static/css/main.d7b9039b.css",
+    "static/js/main.322e1385.js"
   ]
 }
